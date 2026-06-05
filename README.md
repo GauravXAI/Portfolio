@@ -36,7 +36,7 @@ This repository contains a static landing page showcasing:
 ## Contact
 
 - Phone No: +91-9316739084
-- E-mail: qubitgaurav@gmail.com
-- Github: github.com/QubitGaurav
+- E-mail: xaigaurav@gmail.com
+- Github: github.com/GauravXAI
 
 
